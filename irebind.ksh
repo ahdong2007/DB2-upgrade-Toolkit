@@ -6,7 +6,7 @@
 #  
 #  Usage: $0 [-i inst1,inst2,...]
 #    with -i, must be run it as root
-#    without -i, run it with instance id, start current instance
+#    without -i, run it with instance id, rebind databases in current instance
 #
 #    Note: make sure every instance id have access to the working directory
 

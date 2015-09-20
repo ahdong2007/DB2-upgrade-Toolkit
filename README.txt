@@ -4,6 +4,7 @@ istop
 iupdate
 iupgrade
 irebind
+ibkcrontab
 
 
 Usage:

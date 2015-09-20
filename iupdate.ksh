@@ -6,7 +6,7 @@
 #  
 #  Usage: $0 -i inst1,inst2,...
 #            -b <the code path you use to upgrade the instances> 
-#            -l <license file with>
+#            -l <license file with full path>
 #
 #         Must run it as root
 #
