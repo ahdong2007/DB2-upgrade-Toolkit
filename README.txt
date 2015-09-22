@@ -5,6 +5,10 @@ iupdate
 iupgrade
 irebind
 ibkcrontab
+istopasn
+
+pher    -- patcher helper
+uher    -- upgrade helper
 
 
 Usage:
