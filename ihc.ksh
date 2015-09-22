@@ -1,7 +1,7 @@
 #!/bin/ksh
 
 #
-#  Mason Hua 2015/09/16 V0.1
+#  Mason Hua 2015/09/22 V0.1
 
 #  
 #  Usage: $0 [-i inst1,inst2,...]
